@@ -1,4 +1,4 @@
-*.Javascript linguist-language=Vue
-*.Vue linguist-language=Vue
-*.css linguist-language=Vue
+*.Javascript linguist-language=Java
+*.Vue linguist-language=Java
+*.css linguist-language=Java
 *.Java linguist-language=Java
